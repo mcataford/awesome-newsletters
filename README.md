@@ -1,4 +1,8 @@
 
+## Platform Engineering
+
+**HashiBits** [hashicorp.com - scroll to the bottom of the page](https://www.hashicorp.com/#:~:text=Sign%20up%20for%20the%20HashiCorp%20newsletter) _secrets management, infrastructure as code, platform engineering_
+
 ## Data
 
 **Hadoop Weekly** [hadoopweekly.com](http://www.hadoopweekly.com/)  _Hadoop ecosystem, Big Data_
